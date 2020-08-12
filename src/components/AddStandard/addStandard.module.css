@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  padding: 1rem 0;
+  border-bottom: 1px solid #e2d9d9;
+}
+
+.actions {
+  flex: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.image {
+  height: 2rem;
+  width: 2rem;
+}
+
+.input {
+  flex: 80%;
+}
